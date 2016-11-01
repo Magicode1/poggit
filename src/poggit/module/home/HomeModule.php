@@ -53,7 +53,7 @@ class HomeModule extends Module {
                     <br>
                     <a href="https://xkcd.com/1319"><img src="https://imgs.xkcd.com/comics/automation.png"></a>
                     <br>
-                    Poggit-CI will take take your plugins and make releases for you! Fully automated  releasing with flexible configuration!
+                    Poggit-CI will take take your Github Plugin Repositories and make releases for you! Fully automated  releasing with flexible configuration!
                 </p>
             </div>
             </body>
