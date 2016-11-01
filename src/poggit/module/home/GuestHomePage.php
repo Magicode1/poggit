@@ -62,7 +62,9 @@ class GuestHomePage extends VarPage {
             <h2 class="submotto">Download reviewed plugins with simple URLs.</h2>
             <p>After a plugin developer submits a plugin to Poggit, it will be reviewed by Code Reviewers and Test
                 Reviewers before it can be used by the public. Therefore, released plugins you download from Poggit are
-                considered to be safe to use, and quality is generally promising.</p>
+                considered to be safe to use, and quality is generally promising. More information on Plugin Reviewal 
+                guidlines can be found 
+                <a href="../releases/submit/SubmitPluginModule.php">Here</a>.</p>
             <p>The plugin index is categorized, and each released plugin is versioned. You can also filter them by type
                 of <span title="A spoon is a variant of PocketMine-MP. Examples include pmmp, Genisys, ClearSky, etc."
                          class="hover-title">spoon</span> that you use, number of downloads, ratings, etc.</p>
